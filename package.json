@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_TURTORIAL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar2zee/mongoose_turtorial.git"
+  },
+  "keywords": [],
+  "author": "Artur Oganesyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ar2zee/mongoose_turtorial/issues"
+  },
+  "homepage": "https://github.com/ar2zee/mongoose_turtorial#readme",
+  "dependencies": {
+    "mongoose": "^5.0.0-rc0"
+  }
+}
